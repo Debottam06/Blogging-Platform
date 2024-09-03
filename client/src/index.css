@@ -1,0 +1,11 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  font-family: 'roboto',sans-serif;
+  background: rgb(221,221,222);
+background: radial-gradient(circle, rgba(221,221,222,1) 2%, rgba(60, 60, 197, 0.446) 37%, rgba(8,8,8,1) 99%);
+margin-bottom: 3rem;
+}
