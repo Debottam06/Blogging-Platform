@@ -20,4 +20,4 @@ The Blogging Platform using MERN Stack is a full-stack blogging application buil
 # Create Post
 ![create post](https://github.com/user-attachments/assets/8a945c33-ce8c-4cec-85bc-244db9ded746)
 # Update Post 
-![update post](https://github.com/user-attachments/assets/ccf992ed-d8d4-4736-b320-9e4eb24897f0)
+![update post](https://github.com/user-attachments/assets/654e50e8-cc11-43f3-ac16-a50e96b3886f)
