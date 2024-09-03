@@ -10,7 +10,7 @@ The Blogging Platform using MERN Stack is a full-stack blogging application buil
 **. View Other User Blogs:** Explore and read blogs published by other users.
 
 # Images
-
+https://github.com/user-attachments/assets/fc661617-a761-46ae-8ff0-b87b2cba558e
 # Register
 
 # Log in 
